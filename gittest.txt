@@ -12,3 +12,5 @@ Now testing for another function
 Now i am in the Newbranch!
 
 dev has a new load
+
+i am doing someting in the branch dev
